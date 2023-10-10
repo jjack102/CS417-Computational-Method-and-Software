@@ -4,3 +4,4 @@ Course Description
 
 Assignments
 <br />MA1 - Convert Decimal Mantissa to Binary Mantissa
+<br /> class ongoing...
