@@ -16,8 +16,3 @@ All input must be handled through command line arguments. Suppose you were imple
 <br />| 0.25    | 0.01   |
 <br />| 0.75    | 0.11   |
 <br />If you have a number that repeats, stop after MAX DIGITS, which should be set as a global constant in your program. I suggest you start with MAX DIGITS = 8.
-
-# Sample Execution 
-if running on the command line argument, 
-<br />python convert_dec_to_bin.py 0.5 0.25 0.75
-
